@@ -9,7 +9,6 @@ import java.sql.ResultSet;
 
 
 @Component
-@Qualifier("timer")
 public class AnimalsCage {
 
     @Autowired
